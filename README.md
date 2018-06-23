@@ -1,2 +1,2 @@
-# modelmapper-example
-ModelMapper custom property mapping example
+# ModelMapper example
+[ModelMapper](http://modelmapper.org/) custom property mapping example
